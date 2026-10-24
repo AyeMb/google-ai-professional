@@ -101,3 +101,19 @@ before being used to make business decisions.
 ## Project Status
 
 Completed — Strategic Planning Lab.
+
+---
+
+## Project Documentation
+
+- [View Gemini Prompts](prompts.md)
+- [View Results and Evaluation](results.md)
+
+## Future Development
+
+The AI Phishing Analyzer was selected as a potential
+future software project.
+
+The next phase would involve building a prototype
+using simulated phishing emails, evaluating its
+accuracy, and documenting its limitations.

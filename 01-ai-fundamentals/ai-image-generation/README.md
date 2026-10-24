@@ -73,3 +73,14 @@ accuracy and readability of the final poster.
 ## Project Status
 
 Completed — Google AI Professional Certificate Lab.
+
+---
+
+## Final Cybersecurity Awareness Poster
+
+![Anatomy of a Phish — Final Poster](images/final-anatomy-phish.jpeg)
+
+## Project Documentation
+
+- [View Prompt Documentation](prompts.md)
+- [View Results and Evaluation](results.md)

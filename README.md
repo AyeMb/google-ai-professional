@@ -53,3 +53,18 @@ additional technical labs and projects.
 Created and refined a cybersecurity awareness poster using
 Google Gemini. Demonstrated multimodal prompt engineering,
 iterative refinement, AI output evaluation, and quality assurance.
+
+### Project 03: AI-Powered IT Support Strategic Planning
+
+[View Project 03](02-strategic-planning/ai-it-support-strategy/)
+
+Used Google Gemini to brainstorm eight AI-powered IT support
+solutions, perform a cost-benefit analysis, research cybersecurity
+trends, and automate weekly industry monitoring.
+
+Selected an AI-Assisted Phishing Analyzer as a potential
+future development project.
+
+**Skills:** Prompt Engineering, Strategic Planning,
+Cost-Benefit Analysis, Cybersecurity Research,
+AI Workflow Automation.

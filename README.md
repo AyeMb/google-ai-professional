@@ -6,6 +6,8 @@ I'm transitioning into the technology field through AI-enabled IT support traini
 
 This repository documents my hands-on experience with artificial intelligence, prompt engineering, responsible AI, cybersecurity awareness, and practical business applications.
 
+---
+
 ## Projects
 
 ### Course 1: AI Fundamentals
@@ -70,6 +72,35 @@ The proposed solution would help small businesses recognize suspicious emails, u
 
 ---
 
+#### Project 04: AI Phishing Analyzer — Risk Assessment
+
+**Lab:** Build with AI — Risk Assessment
+
+Used Google Gemini to identify missing project dependencies, assess cybersecurity risks, and revise a four-week development schedule for a proposed AI-Assisted Phishing Analyzer.
+
+The project focused on secure API key management, including identifying vulnerabilities, evaluating potential consequences, and incorporating preventive security measures into the development timeline.
+
+I also critically evaluated Gemini's recommendations, identifying inconsistencies in test dataset scheduling, version control practices, and assumptions about API spending limits.
+
+**Skills demonstrated:**
+- AI-assisted risk assessment
+- Cybersecurity planning
+- Project dependency analysis
+- Secure API integration planning
+- Risk mitigation
+- Project scheduling
+- Critical evaluation of AI-generated recommendations
+- Technical documentation
+
+**Project Files:**
+- [Project Overview](02-strategic-planning/ai-phishing-risk-assessment/README.md)
+- [AI Prompts](02-strategic-planning/ai-phishing-risk-assessment/prompts.md)
+- [Risk Assessment Results](02-strategic-planning/ai-phishing-risk-assessment/results.md)
+
+**Status:** Completed — Planning and Risk Assessment
+
+---
+
 ## Tools & Technologies
 
 - Google Gemini
@@ -80,6 +111,10 @@ The proposed solution would help small businesses recognize suspicious emails, u
 - Workflow Automation
 - Cybersecurity Awareness
 - AI-Assisted Business Analysis
+- AI-Assisted Project Management
+- Risk Assessment and Mitigation
+
+---
 
 ## Professional Development
 
@@ -90,8 +125,14 @@ The proposed solution would help small businesses recognize suspicious emails, u
 **Per Scholas**
 - AI-Enabled IT Support Training — In Progress
 
+---
+
 ## Portfolio Status
+
+**Projects Documented:** 4
 
 This portfolio is actively maintained as I complete additional technical labs and projects.
 
-My goal is to demonstrate practical AI skills, technical problem-solving, and the ability to apply emerging technologies to real-world IT support and business challenges.
+My goal is to demonstrate practical AI skills, technical problem-solving, cybersecurity awareness, and the ability to apply emerging technologies to real-world IT support and business challenges.
+
+The AI-Assisted Phishing Analyzer is currently a proposed application. Its planning and risk assessment have been documented, but application development and testing have not yet been completed.

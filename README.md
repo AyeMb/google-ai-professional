@@ -45,3 +45,11 @@ Skills demonstrated:
 
 This portfolio is actively maintained as I complete
 additional technical labs and projects.
+
+### Project 02: AI Image Generation
+
+[Anatomy of a Phish — Cybersecurity Awareness Poster](01-ai-fundamentals/ai-image-generation/)
+
+Created and refined a cybersecurity awareness poster using
+Google Gemini. Demonstrated multimodal prompt engineering,
+iterative refinement, AI output evaluation, and quality assurance.

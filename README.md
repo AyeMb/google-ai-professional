@@ -74,7 +74,8 @@ The proposed solution would help small businesses recognize suspicious emails, u
 
 #### Project 04: AI Phishing Analyzer — Risk Assessment
 
-**Lab:** Build with AI — Risk Assessment
+**Lab:** Build with AI — Risk Assessment  
+**Tool:** Google Gemini
 
 Used Google Gemini to identify missing project dependencies, assess cybersecurity risks, and revise a four-week development schedule for a proposed AI-Assisted Phishing Analyzer.
 
@@ -129,41 +130,24 @@ Evaluated AI-generated findings for accuracy and explored notebook-sharing permi
 
 ---
 
-## Tools, Technologies & Skills
+### Course 3: AI for Research and Insights
 
-- Google Gemini
-- Google NotebookLM
-- GitHub
-- Generative AI
-- Prompt Engineering
-- AI Image Generation
-- Workflow Automation
-- Cybersecurity Awareness
-- AI-Assisted Business Analysis
-- AI-Assisted Project Management
-- Risk Assessment and Mitigation
-- AI-Powered Knowledge Management
-- Document Analysis and Information Retrieval
+#### Project 06: AI Phishing Detection — Deep Research Report
 
----
+**Lab:** Build with AI — Research Report  
+**Tool:** Google Gemini Deep Research  
+**Status:** In Progress
 
-## Professional Development
+Investigating emerging phishing techniques and their implications for small-business cybersecurity.
 
-**Google AI Professional Certificate — In Progress**
-- Course 1: AI Fundamentals — Completed
-- Course 2: AI for Brainstorming and Planning — In Progress
+This project focuses on QR-code phishing (quishing), CAPTCHA-based evasion, and the limitations of traditional email security solutions.
 
-**Per Scholas**
-- AI-Enabled IT Support Training — In Progress
+Using Gemini Deep Research, I developed and refined a research plan covering cybersecurity trends from January 2024 through October 2026.
 
----
+The research examines emerging threats, AI-powered detection capabilities, implementation challenges, and affordable security solutions for small businesses.
 
-## Portfolio Status
-
-**Projects Documented: 5**
-
-This portfolio is actively maintained as I complete additional technical labs and projects.
-
-My goal is to demonstrate practical AI skills, technical problem-solving, cybersecurity awareness, and the ability to apply emerging technologies to real-world IT support and business challenges.
-
-The AI-Assisted Phishing Analyzer is currently a proposed application. Its planning and risk assessment have been documented, but application development and testing have not yet been completed.
+**Research objectives:**
+- Investigate emerging visual and gated phishing techniques.
+- Examine documented cybersecurity trends and attack methods.
+- Evaluate traditional and AI-powered phishing detection.
+- Identify

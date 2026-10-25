@@ -101,9 +101,38 @@ I also critically evaluated Gemini's recommendations, identifying inconsistencie
 
 ---
 
-## Tools & Technologies
+#### Project 05: AI-Powered Knowledge Hub
+
+**Lab:** Build with AI — Knowledge Hub  
+**Tool:** Google NotebookLM
+
+Created an AI-powered knowledge hub using three project documents related to a proposed AI-Assisted Phishing Analyzer.
+
+Used NotebookLM to compare development schedules, identify cybersecurity-related changes, and examine project dependencies.
+
+Evaluated AI-generated findings for accuracy and explored notebook-sharing permissions and access controls.
+
+**Skills demonstrated:**
+- AI-powered knowledge management
+- Document analysis and information retrieval
+- Project schedule comparison
+- Source-based analysis
+- Critical evaluation of AI-generated responses
+- Access permission management
+
+**Project Files:**
+- [Project Overview](02-strategic-planning/ai-knowledge-hub/README.md)
+- [AI Prompts](02-strategic-planning/ai-knowledge-hub/prompts.md)
+- [Analysis Results](02-strategic-planning/ai-knowledge-hub/results.md)
+
+**Status:** Completed — Knowledge Hub Lab
+
+---
+
+## Tools, Technologies & Skills
 
 - Google Gemini
+- Google NotebookLM
 - GitHub
 - Generative AI
 - Prompt Engineering
@@ -113,6 +142,8 @@ I also critically evaluated Gemini's recommendations, identifying inconsistencie
 - AI-Assisted Business Analysis
 - AI-Assisted Project Management
 - Risk Assessment and Mitigation
+- AI-Powered Knowledge Management
+- Document Analysis and Information Retrieval
 
 ---
 
@@ -129,7 +160,7 @@ I also critically evaluated Gemini's recommendations, identifying inconsistencie
 
 ## Portfolio Status
 
-**Projects Documented:** 4
+**Projects Documented: 5**
 
 This portfolio is actively maintained as I complete additional technical labs and projects.
 

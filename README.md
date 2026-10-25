@@ -192,3 +192,31 @@ The infographic demonstrates AI-assisted research and visualization skills. It i
 - [Project Overview](03-research-and-insights/ai-phishing-deep-research/README.md)
 - [Research Results](03-research-and-insights/ai-phishing-deep-research/results.md)
 - [Interactive Infographic — HTML
+
+
+---
+
+#### Project 07: AI-Powered Research Summaries
+
+**Lab:** Build with AI — Research Summaries  
+**Primary Tool:** Google NotebookLM  
+**Supporting Tools:** Google AI Studio (audio transcription), ChatGPT (critical evaluation)  
+**Status:** Completed — Research Summaries Lab
+
+Used public Google Cloud and NIST documentation to research Retrieval-Augmented Generation (RAG), AI-enabled customer support, and responsible AI practices. Generated a research summary, analyzed a hypothetical Wi-Fi troubleshooting workflow, and created a NotebookLM mind map and Audio Overview.
+
+Transcribed the audio with Google AI Studio and critically reviewed its claims about document freshness, token costs, model reasoning, privacy, and environmental impact. This project documents AI-assisted research and evaluation, **not** a deployed RAG system.
+
+**Skills demonstrated:**
+- Source-grounded research and synthesis
+- Prompt engineering
+- RAG architecture literacy
+- IT support workflow analysis
+- AI-generated content evaluation
+- Cybersecurity and privacy awareness
+- Responsible AI documentation
+
+**Project Files:**
+- [Project Overview](03-research-and-insights/ai-powered-research-summaries/README.md)
+- [AI Prompts](03-research-and-insights/ai-powered-research-summaries/prompts.md)
+- [Research Results and Audio Evaluation](03-research-and-insights/ai-powered-research-summaries/results.md)

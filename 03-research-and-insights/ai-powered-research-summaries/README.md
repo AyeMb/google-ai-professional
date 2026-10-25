@@ -88,7 +88,11 @@ Human technicians should verify the applicability of instructions, check permiss
 | [prompts.md](prompts.md) | Documented NotebookLM and transcription prompts |
 | [results.md](results.md) | Research outputs, audio review, and technical limitations |
 
-**Mind map image:** Generated in NotebookLM; the image can be added to this folder when the exported image file is available.
+### Expanded Research Mind Map
+
+![NotebookLM-generated research mind map](mbeche-ayieta-NotebookLM%20Mind%20Map.png)
+
+*AI-generated visualization created in Google NotebookLM. The image must be uploaded to this project folder for the preview to render.*
 
 ## Reflection
 

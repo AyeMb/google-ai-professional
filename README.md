@@ -12,6 +12,8 @@ This repository documents my hands-on experience with artificial intelligence, p
 
 ### Course 1: AI Fundamentals
 
+**Course Status:** Completed
+
 #### Project 01: Prompt Chaining with Google Gemini
 
 Used prompt chaining to explore AI-enabled business opportunities, evaluate potential solutions, and develop a seven-day implementation plan.
@@ -47,6 +49,8 @@ The project involved generating an original design, identifying errors in AI-gen
 
 ### Course 2: AI for Brainstorming and Planning
 
+**Course Status:** Completed
+
 #### Project 03: AI-Powered IT Support Strategic Planning
 
 Used Google Gemini to develop a strategic plan for an AI-powered IT support service targeting small businesses.
@@ -75,7 +79,8 @@ The proposed solution would help small businesses recognize suspicious emails, u
 #### Project 04: AI Phishing Analyzer — Risk Assessment
 
 **Lab:** Build with AI — Risk Assessment  
-**Tool:** Google Gemini
+**Tool:** Google Gemini  
+**Status:** Completed — Planning and Risk Assessment
 
 Used Google Gemini to identify missing project dependencies, assess cybersecurity risks, and revise a four-week development schedule for a proposed AI-Assisted Phishing Analyzer.
 
@@ -98,14 +103,13 @@ I also critically evaluated Gemini's recommendations, identifying inconsistencie
 - [AI Prompts](02-strategic-planning/ai-phishing-risk-assessment/prompts.md)
 - [Risk Assessment Results](02-strategic-planning/ai-phishing-risk-assessment/results.md)
 
-**Status:** Completed — Planning and Risk Assessment
-
 ---
 
 #### Project 05: AI-Powered Knowledge Hub
 
 **Lab:** Build with AI — Knowledge Hub  
-**Tool:** Google NotebookLM
+**Tool:** Google NotebookLM  
+**Status:** Completed — Knowledge Hub Lab
 
 Created an AI-powered knowledge hub using three project documents related to a proposed AI-Assisted Phishing Analyzer.
 
@@ -126,28 +130,65 @@ Evaluated AI-generated findings for accuracy and explored notebook-sharing permi
 - [AI Prompts](02-strategic-planning/ai-knowledge-hub/prompts.md)
 - [Analysis Results](02-strategic-planning/ai-knowledge-hub/results.md)
 
-**Status:** Completed — Knowledge Hub Lab
-
 ---
 
 ### Course 3: AI for Research and Insights
+
+**Course Status:** In Progress
 
 #### Project 06: AI Phishing Detection — Deep Research Report
 
 **Lab:** Build with AI — Research Report  
 **Tool:** Google Gemini Deep Research  
-**Status:** In Progress
+**Status:** Completed — Research Report Lab
 
-Investigating emerging phishing techniques and their implications for small-business cybersecurity.
+Investigated emerging phishing techniques and their implications for small-business cybersecurity.
 
-This project focuses on QR-code phishing (quishing), CAPTCHA-based evasion, and the limitations of traditional email security solutions.
+This project focused on QR-code phishing (quishing), CAPTCHA-based evasion, ClickFix attacks, and the limitations of traditional email security solutions.
 
 Using Gemini Deep Research, I developed and refined a research plan covering cybersecurity trends from January 2024 through October 2026.
 
-The research examines emerging threats, AI-powered detection capabilities, implementation challenges, and affordable security solutions for small businesses.
+Gemini generated a 16-page research report examining emerging threats, AI-powered detection capabilities, implementation challenges, and affordable security solutions for small businesses.
+
+I then transformed the research into an interactive HTML infographic and published it using GitHub Pages.
 
 **Research objectives:**
 - Investigate emerging visual and gated phishing techniques.
 - Examine documented cybersecurity trends and attack methods.
 - Evaluate traditional and AI-powered phishing detection.
-- Identify
+- Identify potential requirements for an affordable AI-Assisted Phishing Analyzer.
+- Assess implementation challenges and cybersecurity risks.
+- Critically evaluate AI-generated research findings.
+
+**Interactive infographic features:**
+- Cybersecurity threat visualizations
+- QR-code phishing and ClickFix attack explanations
+- Traditional email security limitations
+- AI model pricing comparisons
+- Interactive small-business cost estimator
+- Proposed phishing detection architecture
+- Small-business cybersecurity recommendations
+
+**Research evaluation:**
+
+Identified limitations involving source verification, AI-generated statistics, API pricing assumptions, and technical feasibility.
+
+The infographic demonstrates AI-assisted research and visualization skills. It is not a verified cybersecurity assessment or a functioning phishing detection application.
+
+**Skills demonstrated:**
+- AI-assisted research
+- Research planning
+- Prompt engineering
+- Cybersecurity trend analysis
+- Research synthesis
+- Data visualization
+- Critical evaluation of AI-generated information
+- Responsible AI practices
+- HTML artifact management
+- GitHub documentation
+- GitHub Pages deployment
+
+**Project Files:**
+- [Project Overview](03-research-and-insights/ai-phishing-deep-research/README.md)
+- [Research Results](03-research-and-insights/ai-phishing-deep-research/results.md)
+- [Interactive Infographic — HTML
